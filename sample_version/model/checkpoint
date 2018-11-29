@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\py\\text_emotion_analysis/model/"
+all_model_checkpoint_paths: "D:\\py\\text_emotion_analysis/model/"
